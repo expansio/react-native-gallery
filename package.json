@@ -1,6 +1,6 @@
 {
-  "name": "react-native-gallery",
-  "version": "1.0.0",
+  "name": "react-native-custom-gallery",
+  "version": "1.0.1",
   "description": "gallery ",
   "main": "index.js",
   "scripts": {
