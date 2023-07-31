@@ -1,0 +1,23 @@
+{
+  "name": "react-native-gallery",
+  "version": "1.0.0",
+  "description": "gallery ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/expansio/react-native-gallery.git"
+  },
+  "keywords": [
+    "gallery",
+    "react-native"
+  ],
+  "author": "expansio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/expansio/react-native-gallery/issues"
+  },
+  "homepage": "https://github.com/expansio/react-native-gallery#readme"
+}
